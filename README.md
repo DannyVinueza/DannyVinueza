@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=DannyVinueza&icon=6&color=3)](https://visitcount.itsvg.in)
 --
 # 💫 About Me:
-🔭 I'm a passionate software developer in constant search of new knowledge, skills and challenges.<br>🌱 I am interested in cybersecurity, artificial intelligence, and web, mobile, and desktop development.<br>💬 I am a person who likes challenges to learn new things every day.<br>⚡ I like to play chess, basketball, watch action and science fiction movies.
+🔭 I'm a passionate software developer in constant search of new knowledge, skills and challenges.<br>🌱 I'm interested in building innovative, scalable full-stack applications using modern technologies like JavaScript, Node.js, .NET Core and SQL/NoSQL databases. .<br>💬 I am a person who likes challenges to learn new things every day.<br>⚡ I like to play chess, basketball, watch action and science fiction movies.
 
 
 ## 🌐 Socials:
